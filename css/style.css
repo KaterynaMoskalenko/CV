@@ -1,0 +1,158 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: whitesmoke;
+}
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1700px;
+  background-color: #fff;
+  margin: 40px auto;
+}
+
+.right-site {
+  display: flex;
+  flex-direction: column;
+  padding: 100px 90px;
+}
+/* about-me-section*/
+.about-me-section {
+  margin: 0 0 10px 0;
+}
+
+.me {
+  margin: 30px 200px 20px 20px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 17px;
+  color: black;
+  margin: 0 0 20px 0;
+}
+.name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+.goal {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  width: 500px;
+  color: #595959;
+}
+
+/*My-achievments*/
+
+.education,
+.achievments,
+.expirience {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.My-achievments {
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+.achievments-list {
+  padding: 0 0 0 15px;
+}
+
+.achievments-item {
+  color: #000;
+}
+
+.achievments-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.achievments-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.banks {
+  color: #fb6d3a;
+  font-weight: bold;
+}
+
+.My-expirience {
+  margin-top: 5px;
+}
+
+.education-academy {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: normal;
+}
+.Sitebar {
+  background-color: #1e2939;
+  color: #fff;
+  padding: 40px 2px;
+}
+
+.contact,
+.quality {
+  margin: 50px 0 0 40px;
+}
+
+.Sitebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+}
+.contact-section {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 8px;
+}
+.link {
+  color: #565656;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* Quality */
+.quality-list {
+  padding-left: 17px;
+}
+
+.quality-item,
+.skill-item {
+  color: #fb6d3a;
+}
+
+.quality-text,
+.skill-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+img {
+  width: 50%;
+}
